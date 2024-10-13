@@ -1,0 +1,38 @@
+2024-10-12 10:20:37,206 - ETL process started
+2024-10-12 10:20:37,206 - Starting extraction phase
+2024-10-12 10:20:37,207 - Extracting CSV file: C:\Users\admin\Data Eng Workspace\Comprehensive_ETL_Workflow\source1.csv
+2024-10-12 10:20:37,263 - Extracting JSON file: C:\Users\admin\Data Eng Workspace\Comprehensive_ETL_Workflow\source1.json
+2024-10-12 10:31:03,663 - ETL process started
+2024-10-12 10:31:03,663 - Starting extraction phase
+2024-10-12 10:31:03,664 - Extracting CSV file: C:\Users\admin\Data Eng Workspace\Comprehensive_ETL_Workflow\source1.csv
+2024-10-12 10:31:03,671 - Extracting JSON file: C:\Users\admin\Data Eng Workspace\Comprehensive_ETL_Workflow\source1.json
+2024-10-12 10:42:17,695 - ETL process started
+2024-10-12 10:42:17,695 - Starting extraction phase
+2024-10-12 10:42:17,696 - Extracting CSV file: C:\Users\admin\Data Eng Workspace\Comprehensive_ETL_Workflow\source1.csv
+2024-10-12 10:42:17,703 - Extracting JSON file: C:\Users\admin\Data Eng Workspace\Comprehensive_ETL_Workflow\source1.json
+2024-10-12 10:42:17,709 - Extracting XML file: C:\Users\admin\Data Eng Workspace\Comprehensive_ETL_Workflow\source1.xml
+2024-10-12 10:42:17,715 - Extracting CSV file: C:\Users\admin\Data Eng Workspace\Comprehensive_ETL_Workflow\source2.csv
+2024-10-12 10:42:17,728 - Extracting JSON file: C:\Users\admin\Data Eng Workspace\Comprehensive_ETL_Workflow\source2.json
+2024-10-12 10:42:17,731 - Extracting XML file: C:\Users\admin\Data Eng Workspace\Comprehensive_ETL_Workflow\source2.xml
+2024-10-12 10:42:17,732 - Extracting CSV file: C:\Users\admin\Data Eng Workspace\Comprehensive_ETL_Workflow\source3.csv
+2024-10-12 10:42:17,737 - Extracting JSON file: C:\Users\admin\Data Eng Workspace\Comprehensive_ETL_Workflow\source3.json
+2024-10-12 10:42:17,740 - Extracting XML file: C:\Users\admin\Data Eng Workspace\Comprehensive_ETL_Workflow\source3.xml
+2024-10-12 10:42:17,764 - Extraction phase completed
+2024-10-12 10:42:17,764 - Starting transformation phase
+2024-10-12 10:51:16,008 - ETL process started
+2024-10-12 10:51:16,009 - Starting extraction phase
+2024-10-12 10:51:16,010 - Extracting CSV file: C:\Users\admin\Data Eng Workspace\Comprehensive_ETL_Workflow\source1.csv
+2024-10-12 10:51:16,015 - Extracting JSON file: C:\Users\admin\Data Eng Workspace\Comprehensive_ETL_Workflow\source1.json
+2024-10-12 10:51:16,018 - Extracting XML file: C:\Users\admin\Data Eng Workspace\Comprehensive_ETL_Workflow\source1.xml
+2024-10-12 10:51:16,020 - Extracting CSV file: C:\Users\admin\Data Eng Workspace\Comprehensive_ETL_Workflow\source2.csv
+2024-10-12 10:51:16,024 - Extracting JSON file: C:\Users\admin\Data Eng Workspace\Comprehensive_ETL_Workflow\source2.json
+2024-10-12 10:51:16,026 - Extracting XML file: C:\Users\admin\Data Eng Workspace\Comprehensive_ETL_Workflow\source2.xml
+2024-10-12 10:51:16,029 - Extracting CSV file: C:\Users\admin\Data Eng Workspace\Comprehensive_ETL_Workflow\source3.csv
+2024-10-12 10:51:16,032 - Extracting JSON file: C:\Users\admin\Data Eng Workspace\Comprehensive_ETL_Workflow\source3.json
+2024-10-12 10:51:16,033 - Extracting XML file: C:\Users\admin\Data Eng Workspace\Comprehensive_ETL_Workflow\source3.xml
+2024-10-12 10:51:16,041 - Extraction phase completed
+2024-10-12 10:51:16,041 - Starting transformation phase
+2024-10-12 10:51:16,049 - Transformation phase completed
+2024-10-12 10:51:16,049 - Starting loading phase
+2024-10-12 10:51:16,061 - Loading phase completed
+2024-10-12 10:51:16,061 - ETL process completed
